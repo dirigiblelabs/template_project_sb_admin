@@ -1,1 +1,8 @@
-{"guid":"template_project_sb_admin","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_project_sb_admin.git"}}
+{
+    "guid":"template_project_sb_admin",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_project_sb_admin.git"
+    }
+}
